@@ -2,3 +2,5 @@ Rencana KOnten aji
 -JAVA
 -JAVASCRIPT
 -PHP
+-Golang
+-Laravel
